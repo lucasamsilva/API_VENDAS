@@ -151,4 +151,5 @@ public class Cliente implements Serializable{
 	public void addPerfil(Perfil perfil) {
 		perfis.add(perfil.getCod());
 	}
+
 }
